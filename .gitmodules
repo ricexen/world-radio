@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:ricexen/world-radio-api.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:ricexen/world-radio-ui.git
